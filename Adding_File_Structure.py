@@ -11,9 +11,8 @@ commit_msg = "Create repository folder structure"
 
 # Root folders
 root_folders = [
-    "WeeklyModules",
-    "Assignments",
-    "data"
+    "WeeklyModules/Week05",
+    
 ]
 
 # Create root folders and .gitkeep files
